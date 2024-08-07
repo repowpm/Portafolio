@@ -1,10 +1,8 @@
- Mi Primer Portafolio
+ <h1>Mi Primer Portafolio</h1>
 
- El proyecto está orientado al cumplimiento de los siguientes indicadores.
-
-![Desktop](https://github.com/user-attachments/assets/c6000547-c1ef-4676-9750-064ac3b7a254)
-
-Respecto a la escala de apreciación se realizó lo solicitado:
+<h2>El proyecto está orientado al cumplimiento de los siguientes indicadores</h2>
+ 
+<h3>Respecto a la escala de apreciación se realizó lo solicitado:</h3>
 
 - Se instaló Bootstrap mediante la terminal usando NPM.
 - Se creó la estructura de carpetas que hemos estado revisando en los últimos proyectos.
@@ -14,3 +12,4 @@ Respecto a la escala de apreciación se realizó lo solicitado:
 - Se creó un formulario de contacto que permite cotizar servicios. El formulario solicita como requerido los datos de contacto para poder enviar el mensaje.
 
 ![Responsividad](https://github.com/user-attachments/assets/80ff5bc4-cb8a-48fb-a857-660fdc6a8937)
+![Desktop](https://github.com/user-attachments/assets/c6000547-c1ef-4676-9750-064ac3b7a254)
